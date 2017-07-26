@@ -1,0 +1,30 @@
+{
+  "name": "kasha",
+  "version": "1.0.0",
+  "description": "USSD_WEB_APP",
+  "main": "cordova.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KashaGlobal/ussdweb.git"
+  },
+  "keywords": [
+    "shopping",
+    "ecommerce",
+    "twoclicks"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KashaGlobal/ussdweb/issues"
+  },
+  "homepage": "https://github.com/KashaGlobal/ussdweb#readme"
+}

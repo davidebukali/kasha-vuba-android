@@ -1,0 +1,72 @@
+/*Kasha Styles*/
+div[class*="col-"] {
+  background: #fff;
+  text-align: center;
+  color: #000;
+}
+.row {
+  margin-bottom: 15px;
+}   
+.middle-text {
+	text-align: center;
+	width: 100%;
+}
+.price-tag {	
+	display: inline;
+    padding: .2em .3em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    background-color: #d9534f;
+}
+.ussd-footer {
+	padding: 0px;
+    min-height: 36px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: teal;
+}
+.navbar, .subnavbar {
+    background: #ffffff;
+}
+.img-responsive {
+	max-width: 100% !important;
+    height: 100px;
+    display: inline-block;
+}
+.category-title {
+	font-size: 20px;
+    border-bottom-style: solid;
+    border-bottom-color: teal;
+    padding-bottom: 10px;
+    border-width: 2px;
+}
+.item-name {
+	margin: 0px;
+    font-weight: bold;
+    height: 60px;
+    overflow: hidden;
+}
+.header-image {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card {
+	border-top: #e6e6e6;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.dont-break-out {
+  white-space: pre-wrap;
+  line-height: 30px;
+  margin: 0px;
+}
+
