@@ -15,6 +15,9 @@
         },
         "cordova-plugin-splashscreen": {
             "PACKAGE_NAME": "com.kasha.app"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.vuba.kasha.app"
         }
     },
     "dependent_plugins": {}

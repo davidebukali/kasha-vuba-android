@@ -46,6 +46,8 @@ gulp.task('move-files', function() {
 //Move dependency files
 gulp.task('move-files-to-git', function() {
 	return gulp.src([
+					 'images',
+					 'html/**/*',
 	                 'js/**/*',
 	                 'lib/**/*',
 	                 'gulpfile.js',

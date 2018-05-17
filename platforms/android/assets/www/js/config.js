@@ -24,4 +24,6 @@ MyApp.fw7 = {
 		domAccess: $$
 };
 
+MyApp.fw7.views.push(MyApp.fw7.app.addView('.view-main', MyApp.fw7.options));
+
 MyApp.fw7.app.showPreloader('Please wait');
